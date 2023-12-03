@@ -8,7 +8,7 @@
 *** These three codes should be implemented sequentially. 
 ## For reference   
 These codes were written as an example for the 'PD-RBD delta pattern'.   
-These codes were utilized for extraction of EEG patterns and their evaluation on an independent test set.   
+These codes were employed for the extraction of EEG patterns and their evaluation on an independent test set.   
 If applying the LOOCV method, please refer to the paper's explanation and adjust the code accordingly.   
 Additionally, the Python scripts include output for the shape of matrices at intermediate stages.
 
